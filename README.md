@@ -1,5 +1,7 @@
 # @vinayakpalve/mathoperators
 
+## Package Link
+https://www.npmjs.com/package/@vinayakpalve/mathoperators
 
 "The package '@vinayakpalve/mathoperators' can perform ADDITION, SUBTRACTION, MULTIPLICATION, DIVISION, and SORTING operations on n numbers at a time."
 
