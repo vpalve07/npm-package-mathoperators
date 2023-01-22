@@ -1,0 +1,16 @@
+{
+  "name": "@vinayakpalve/mathoperators",
+  "version": "7.1.0",
+  "description": "Math operations on numbers",
+  "main": "index.js",
+  "keywords": [
+    "addition",
+    "substraction",
+    "division",
+    "multiplication",
+    "maths",
+    "operators"
+  ],
+  "author": "Vinayak Palve",
+  "license": "ISC"
+}
