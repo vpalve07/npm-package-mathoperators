@@ -1,6 +1,6 @@
 {
   "name": "@vinayakpalve/mathoperators",
-  "version": "7.3.6",
+  "version": "7.3.7",
   "description": "Math operations on numbers",
   "main": "index.js",
   "keywords": [
