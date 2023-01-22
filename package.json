@@ -5,11 +5,10 @@
   "main": "index.js",
   "keywords": [
     "addition",
-    "substraction",
-    "division",
+    "subtraction",
     "multiplication",
-    "maths",
-    "operators"
+    "division",
+    "sorting"
   ],
   "author": "Vinayak Palve",
   "license": "ISC"
