@@ -22,4 +22,6 @@ let output = operators.mul(numbers) //=> For Multiplication of n Numbers
 let output = operators.div(numbers) //=> For Division of n Numbers
 let output = operators.sort(numbers) //=> For Sorting of n Numbers
 
+console.log(output)
+
 ```
