@@ -34,6 +34,16 @@ console.log(output) //=> 608832
 let output = operators.div(numbers) 
 console.log(output) //=> 0.00023651844843897824
 
+//=> For getting Remainder of two integers that have been divided
+let numbers = [302,12]
+let output = operators.modulus(numbers)
+console.log(output) //=> 2
+
+//=> For calculating first operand to the power of the second operand
+let numbers = [2,12]
+let output = operators.pow(numbers)
+console.log(output) //=> 4096
+
 //=> For Sorting of n Numbers
 let output = operators.sort(numbers) 
 console.log(output) //=> [1, 2, 3, 4, 7, 12, 302]
