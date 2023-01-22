@@ -18,19 +18,23 @@ let numbers = [12,302,1,2,3,4,7]
 
 //=> For Addition of n Numbers
 let output = operators.add(numbers) 
+console.log(output) //=> 331
 
 //=> For Substraction of n Numbers
 let output = operators.sub(numbers) 
+console.log(output) //=> -307
 
 //=> For Multiplication of n Numbers
 let output = operators.mul(numbers) 
+console.log(output) //=> 608832
 
 //=> For Division of n Numbers
 let output = operators.div(numbers) 
+console.log(output) //=> 0.00023651844843897824
 
 //=> For Sorting of n Numbers
 let output = operators.sort(numbers) 
+console.log(output) //=> [1, 2, 3, 4, 7, 12, 302]
 
-console.log(output)
 
 ```
