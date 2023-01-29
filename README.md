@@ -48,5 +48,4 @@ console.log(output) //=> 4096
 let output = operators.sort(numbers) 
 console.log(output) //=> [1, 2, 3, 4, 7, 12, 302]
 
-
 ```

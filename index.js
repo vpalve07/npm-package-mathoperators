@@ -33,4 +33,9 @@ function sort(arr){
     return res.sort((a,b)=>a-b)
 }
 
-module.exports = {add,sub,mul,div,modulus,pow,sort}
+function revsort(arr){
+    let res = [...arr]
+    return res.sort((a,b)=>b-a)
+}
+
+module.exports = {add,sub,mul,div,modulus,pow,sort,revsort}
