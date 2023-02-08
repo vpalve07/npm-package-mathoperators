@@ -14,21 +14,23 @@ $ npm i @vinayakpalve/mathoperators
 ```js
 const operators = require("@vinayakpalve/mathoperators");
 
-let numbers = [12,302,1,2,3,4,7]
-
 //=> For Addition of n Numbers
+let numbers = [12,302,1,2,3,4,7]
 let output = operators.add(numbers) 
 console.log(output) //=> 331
 
 //=> For Substraction of n Numbers
+let numbers = [12,302,1,2,3,4,7]
 let output = operators.sub(numbers) 
 console.log(output) //=> -307
 
 //=> For Multiplication of n Numbers
+let numbers = [12,302,1,2,3,4,7]
 let output = operators.mul(numbers) 
 console.log(output) //=> 608832
 
 //=> For Division of n Numbers
+let numbers = [12,302,1,2,3,4,7]
 let output = operators.div(numbers) 
 console.log(output) //=> 0.00023651844843897824
 
@@ -43,7 +45,14 @@ let output = operators.pow(numbers)
 console.log(output) //=> 4096
 
 //=> For Sorting of n Numbers
+let numbers = [12,302,1,2,3,4,7]
 let output = operators.sort(numbers) 
 console.log(output) //=> [1, 2, 3, 4, 7, 12, 302]
+
+//=> For Reverse Sorting of n Numbers
+let numbers = [12,302,1,2,3,4,7]
+let output = operators.revsort(numbers) 
+console.log(output) //=> [302, 12, 7, 4, 3, 2, 1]
+
 
 ```
