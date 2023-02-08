@@ -51,7 +51,7 @@ console.log(output) //=> [1, 2, 3, 4, 7, 12, 302]
 
 //=> For Reverse Sorting of n Numbers
 let numbers = [12,302,1,2,3,4,7]
-let output = operators.revsort(numbers) 
+let output = operators.revSort(numbers) 
 console.log(output) //=> [302, 12, 7, 4, 3, 2, 1]
 
 
